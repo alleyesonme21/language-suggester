@@ -18,13 +18,13 @@ _This app helps prospective web developers decide which programming language the
 - Bootstrap 
 - jquery
 - Javascript
-- git
+- Git
 
 GH Pages Link
-URL: 
+URL: https://alleyesonme21.github.io/language-suggester/
 
 ## Support and contact details
-contack info: Email: duverseaujohnny21@gmail.com
+Contack info: Email: duverseaujohnny21@gmail.com
 
 ## License
 This project is licensed under the MIT License 
